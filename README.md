@@ -5,6 +5,8 @@
 
 自写类文件为Ciucrit.h，项目文件为MIN-MAX.cpp，其余文件为其他电路设计。
 
+若要查看完整证明过程，则请访问Zk-snarks example文件夹。
+
 
 设计目标
 =
