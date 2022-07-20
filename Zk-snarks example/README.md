@@ -49,7 +49,9 @@ __编译电路__
 
 __计算证据__
 
-`node generate_witness.js InRange.wasm ../input.json ../witness.wtns`
+`node generate_witness.js InRange.wasm input.json witness.wtns`
+
+**__注意：此步需将所有文件放入同一文件夹内执行。__**
 
 __证明电路__
 
