@@ -70,3 +70,8 @@ __证明电路__
 7.`snarkjs groth16 prove multiplier2_0001.zkey witness.wtns proof.json public.json`
 
 8.`snarkjs groth16 verify verification_key.json public.json proof.json`
+
+运行截图
+=
+
+![image](https://github.com/CLiangH/Picture/blob/main/ZK6.png)
